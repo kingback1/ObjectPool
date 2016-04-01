@@ -1,8 +1,3 @@
-// algorithm1.cpp : ¶¨Òå¿ØÖÆÌ¨Ó¦ÓÃ³ÌÐòµÄÈë¿Úµã¡£
-//
-
-#include "stdafx.h"
-
 #include <iostream>
 #include <string>
 #include <vector>
